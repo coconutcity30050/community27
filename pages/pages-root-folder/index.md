@@ -17,8 +17,10 @@ widget1:
 widget2:
   title: "Information"
   url: 'http://coconutcity30050.github.io/community27/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://coconutcity30050.github.io/community27/images/coconutcity30050-nightview-459x258.jpg" width="302" height="182" alt=""/></a>'
+  text: '<em>CoconutCityy 30050</em> 椰城E棟夜景.<br/>
+  1. 多語言支援 :)<br/>2. 開源資料與保固 <br/>3. Built on <a href="http://github.com/coconutcity30050">椰城社區簡介</a>.<br/>
+  4. 多種文件格式.<br/>5. 先進AI問答系統'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://coconutcity30050.github.io/community27/images/coconutcity30050-nightview-459x258.png" width="302" height="182" alt=""/></a>'
   
 widget3:
   title: "第27屆管委會之願景"
