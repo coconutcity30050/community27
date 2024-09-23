@@ -1,12 +1,12 @@
-- title: 管委會
+- title: 管理委員會
   url: "/"
   side: left
 
-- title: 社區規約
+- title: 規約與須知
   url: "/getting-started/"
   side: left
 
-- title: "設備與場域"
+- title: "場域與設備"
   url: "/design/"
   side: left
   dropdown:
@@ -50,22 +50,22 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: "公告與文件"
+- title: "規劃與公告"
   url: "/documentation/"
   side: left
   dropdown:
+  - title: "Roadmap"
+    url: "/roadmap/"  
   - title: "Changelog"
     url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
-- title: "財務報告"
+- title: "會議紀要"
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "管委會會議紀要"
     url: "/blog/archive/"
-
+    
 - title: "Search"
   url: "/search/"
   side: right
