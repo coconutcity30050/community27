@@ -6,7 +6,7 @@
   url: "/getting-started/"
   side: left
 
-- title: "場域與設備"
+- title: "場所與設備"
   url: "/design/"
   side: left
   dropdown:
@@ -59,11 +59,11 @@
   - title: "Changelog"
     url: "/changelog/"
 
-- title: "會議紀要"
+- title: "報告與紀要"
   url: "/blog/"
   side: left
   dropdown:
-  - title: "管委會會議紀要"
+  - title: "會議紀要"
     url: "/blog/archive/"
     
 - title: "Search"
