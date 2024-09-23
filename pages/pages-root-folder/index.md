@@ -15,12 +15,12 @@ widget1:
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
   
 widget2:
-  title: "Information"
+  title: "椰城社區簡介"
   url: 'http://coconutcity30050.github.io/community27/info/'
-  text: '<em>CoconutCityy 30050</em> 椰城E棟夜景.<br/>
+  text: '<em>CoconutCityy 30050</em><br/>
   1. 多語言支援 :)<br/>2. 開源資料與保固 <br/>3. Built on <a href="http://github.com/coconutcity30050">椰城社區簡介</a>.<br/>
   4. 多種文件格式.<br/>5. 先進AI問答系統'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://coconutcity30050.github.io/community27/images/coconutcity30050-nightview-459x258.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/blob/gh-pages/images/coconutcity30050-nightview-video-459x258.png?raw=true" width="302" height="182" alt=""/></a>'
   
 widget3:
   title: "第27屆管委會之願景"
