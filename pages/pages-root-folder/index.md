@@ -26,7 +26,7 @@ widget3:
   title: "第27屆管委會之願景"
   url: 'https://github.com/coconutcity30050/community27'
   image: widget-github-303x182.jpg
-  text: '<em>公開透明, 誠信務實, 科技進化, 快樂生活'
+  text: '<em>公開透明, 制度管理, 科技創新, 快樂生活'
   
 #
 # Use the call for action to show a button on the frontpage
