@@ -6,6 +6,15 @@
   url: "/getting-started/"
   side: left
 
+- title: "財務與紀要"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "財務報告"
+    url: "/blog/archive/"  
+  - title: "會議紀要"
+    url: "/blog/archive/"
+    
 - title: "場所與設備"
   url: "/design/"
   side: left
@@ -59,13 +68,6 @@
   - title: "Changelog"
     url: "/changelog/"
 
-- title: "報告與紀要"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "會議紀要"
-    url: "/blog/archive/"
-    
 - title: "Search"
   url: "/search/"
   side: right
