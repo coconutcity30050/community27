@@ -9,24 +9,24 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   
 widget1:
-  title: "Portfolio & Blog"
+  title: "Portfolio"
   url: 'http://coconutcity30050.github.io/community27/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: '內容建構中...歡迎建議'
   
 widget2:
-  title: "椰城社區簡介"
+  title: "使命與任務介紹"
   url: 'http://coconutcity30050.github.io/community27/info/'
   text: '<em>CoconutCityy 30050</em><br/>
-  1. 多語言支援 :)<br/>2. 開源資料與保固 <br/>3. Built on <a href="http://github.com/coconutcity30050">椰城社區簡介</a>.<br/>
-  4. 多種文件格式.<br/>5. 先進AI問答系統'
+  1. 架設社區雲端論壇<br/>2. 建置財務管理系統 <br/>3. 革新工程採購制度<br/>
+  4. 優化事務管理制度<br/>5. 建立社區志工小組 <br/><a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/blob/gh-pages/images/coconutcity30050-nightview-video-459x258.png?raw=true" width="302" height="182" alt=""/></a>'
   
 widget3:
   title: "第27屆管委會之願景"
   url: 'https://github.com/coconutcity30050/community27'
   image: widget-github-303x182.jpg
-  text: '<em>公開透明, 制度管理, 科技創新, 快樂生活'
+  text: '<em>資訊公開透明, 制度科技化管理, 社區創新服務, 快樂分享生活'
   
 #
 # Use the call for action to show a button on the frontpage
