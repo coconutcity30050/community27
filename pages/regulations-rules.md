@@ -22,7 +22,7 @@ permalink           : "/regulations-rules/"
 
 ---
 ## AI法律諮詢
-<p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
+<p><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
 
 <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
 <style>
