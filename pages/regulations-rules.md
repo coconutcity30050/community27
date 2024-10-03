@@ -25,10 +25,9 @@ permalink           : "/regulations-rules/"
 <p><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
 
 <div class="inputs">
-    <input type="password" id="apiKey" placeholder="API Key" />
+    <input type="password" placeholder="API Key" />
     <input
          type="text"
-         id="messageInput"
          placeholder="Type your message here..."
     />
     <button onclick="sendMessage()">Send</button>
@@ -41,7 +40,7 @@ permalink           : "/regulations-rules/"
     const converter = new showdown.Converter();
     let thread = [];
     function sendMessage() {
-        var apiKey = document.getElementById("apiKey").value;
+        var apiKey = "AIzaSyCnRzbxgrMX1GjIHnN7U6EQVM8YKy9Ikw4";
         const message = document.getElementById("messageInput").value;
         document.getElementById("chatHistory").innerHTML +=
             "<div><div class='author'>You:</div>" + message + "</div>";
