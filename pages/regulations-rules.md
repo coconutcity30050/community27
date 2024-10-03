@@ -22,14 +22,11 @@ permalink           : "/regulations-rules/"
 
 ---
 ## AI法律諮詢
-<p><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
+<p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
 
 <div class="inputs">
-    <input type="password" placeholder="API Key" />
-    <input
-         type="text"
-         placeholder="Type your message here..."
-    />
+    <input type="password" id="apiKey" placeholder="API Key" />
+    <input type="text" id="messageInput" placeholder="Type your message here..."/>
     <button onclick="sendMessage()">Send</button>
 </div>
 <div id="chatHistory">
