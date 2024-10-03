@@ -24,11 +24,44 @@ permalink           : "/regulations-rules/"
 ## AI法律諮詢
 <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
 
+<script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont,
+            "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+            "Helvetica Neue", sans-serif;
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        height: 100dvh;
+    }
+    #chatHistory {
+        flex-grow: 1;
+    }
+    .inputs {
+        display: flex;
+    }
+    #messageInput {
+    }
+    .inputs > * {
+        height: 2rem;
+        padding: 0.5rem;
+    }
+    #chatHistory > div {
+        margin-top: 1rem;
+    }
+</style>
 <div class="inputs">
-    <input type="password" id="apiKey" placeholder="API Key" />
+    <input type="password" id="apiKey" placeholder="https://aistudio.google.com/app/apikey" />
     <input type="text" id="messageInput" placeholder="Type your message here..."/>
     <button onclick="sendMessage()">Send</button>
 </div>
+
 <div id="chatHistory">
     <!-- Chat history will appear here -->
 </div>
@@ -37,7 +70,8 @@ permalink           : "/regulations-rules/"
     const converter = new showdown.Converter();
     let thread = [];
     function sendMessage() {
-        var apiKey = "AIzaSyCnRzbxgrMX1GjIHnN7U6EQVM8YKy9Ikw4";
+        /*var apiKey = document.getElementById("apiKey").value;*/
+        var apiKey = "AIzaSyBfva4fTk8OaZnlDdvN_zaXaey0MrezCFo";
         const message = document.getElementById("messageInput").value;
         document.getElementById("chatHistory").innerHTML +=
             "<div><div class='author'>You:</div>" + message + "</div>";
