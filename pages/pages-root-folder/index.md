@@ -19,7 +19,7 @@ widget2:
   url: 'http://coconutcity30050.github.io/community27/info/'
   text: '<em>CoconutCityy 30050</em><br/>
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
-  2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>3. 建置財務查詢系統<br/>4. 革新工程採購制度<br/>
+  2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>3. 建置財務查詢系統<br/>4. 革新<a href="https://www.youtube.com/post/Ugkx1HW9kOyJpswTkNCxBX9DCnU4zcyM-7Ho">工程採購制度</a><br/>
   5. 優化事務管理制度<br/>6. 建立社區志工小組<br/>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/blob/gh-pages/images/coconutcity30050-nightview-video-459x258.png?raw=true" width="302" height="182" alt=""/></a>'
   
