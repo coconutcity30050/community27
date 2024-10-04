@@ -58,7 +58,11 @@ permalink           : "/regulations-rules/"
 </style>
 <div class="inputs">
     <input type="checkbox" id="reg_url" placeholder="公寓大廈管理條例"/>
-    <input type="checkbox" id="rules_url" placeholder="椰城社區規約"/>　
+</div>
+<div class="inputs">
+    <input type="checkbox" id="rules_url" placeholder="椰城社區規約"/>
+</div>   
+<div class="inputs">
     <input type="text" id="messageInput" placeholder="Type your message here..."/>
     <button onclick="sendMessage()">Send</button>
 </div>
