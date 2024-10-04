@@ -21,7 +21,7 @@ widget2:
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
   2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
   3. 全面評估社區修繕事項<br/>
-  4. 革新<a href="https://www.youtube.com/post/Ugkx1HW9kOyJpswTkNCxBX9DCnU4zcyM-7Ho">工程採購制度</a><br/> 
+  4. 革新工程採購制度<br/> 
   5. 優化事務管理,制定規約落實制度<br/>
   6. 建置財務查詢系統<br/>
   7. 建立社區志工小組<br/>'
@@ -49,8 +49,6 @@ callforaction:
   style: alert
 permalink: /index.html
 #
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
 #
 homepage: true
 ---
