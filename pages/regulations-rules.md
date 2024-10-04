@@ -60,7 +60,7 @@ permalink           : "/regulations-rules/"
     <input type="checkbox" id="reg_url" name="regulations"/><label for="regulations">公寓大廈管理條例</label>
 </div>
 <div class="inputs">
-    <input type="checkbox" id="rules_url" name="rules"/><label for="rules">椰城社區規約與管理辦法</label>
+    <input type="checkbox" id="rules_url" name="rules" checked/><label for="rules">椰城社區規約與管理辦法</label>
 </div>   
 <div class="inputs">
     <input type="text" id="messageInput" placeholder="Type your message here..."/>
