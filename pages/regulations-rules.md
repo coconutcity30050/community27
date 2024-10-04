@@ -11,9 +11,7 @@ permalink           : "/regulations-rules/"
 ---
 ## 公寓大廈管理條例
 <br>
-法規名稱：內政部 [公寓大廈管理條例 111-05-11.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B111-05-11.pdf)<br>
-
-全國法規資料庫: [公寓大廈管理條例](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118)<br>
+[內政部公寓大廈管理條例網頁](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118), [公寓大廈管理條例111-05-11.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B111-05-11.pdf), <br>
 
 ---
 ## 椰城社區規約
