@@ -1,21 +1,21 @@
-- menu_name: "Dankeschön"
+- menu_name: "緊急聯絡"
 
-- name: "Icons by Daniel Bruce"
+- name: "防火與電機"
   url: "http://entypo.com/"
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
-- name: "Built on Foundation"
+- name: "環保與清潔"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
   title: "Built on Foundation"
 
-- name: "Images by Unsplash"
+- name: "保全與物業"
   url: "http://unsplash.com/"
   class: "rss-link"
   title: "Images by Unsplash"
 
-- name: "Using Backstretch by Scott Robbin"
+- name: "新竹市府"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
   title: "Using Backstretch by Scott Robbin"
