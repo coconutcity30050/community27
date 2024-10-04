@@ -57,9 +57,8 @@ permalink           : "/regulations-rules/"
     }
 </style>
 <div class="inputs">
-    <input type="checkbox" id="regulations" placeholder="公寓大廈管理條例"/>
-    <input type="checkbox" id="rules" placeholder="椰城社區規約"/>
-    /*<input type="password" id="apiKey" placeholder="https://aistudio.google.com/app/apikey" />*/
+    <input type="checkbox" id="reg_url" placeholder="公寓大廈管理條例"/>
+    <input type="checkbox" id="rules_url" placeholder="椰城社區規約"/>　
     <input type="text" id="messageInput" placeholder="Type your message here..."/>
     <button onclick="sendMessage()">Send</button>
 </div>
