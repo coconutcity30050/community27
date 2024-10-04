@@ -57,7 +57,9 @@ permalink           : "/regulations-rules/"
     }
 </style>
 <div class="inputs">
-    <input type="password" id="apiKey" placeholder="https://aistudio.google.com/app/apikey" />
+    <input type="checkbox" id="regulations" placeholder="公寓大廈管理條例"/>
+    <input type="checkbox" id="rules" placeholder="椰城社區規約"/>
+    /*<input type="password" id="apiKey" placeholder="https://aistudio.google.com/app/apikey" />*/
     <input type="text" id="messageInput" placeholder="Type your message here..."/>
     <button onclick="sendMessage()">Send</button>
 </div>
@@ -72,6 +74,8 @@ permalink           : "/regulations-rules/"
     function sendMessage() {
         /*var apiKey = document.getElementById("apiKey").value;*/
         var apiKey = "AIzaSyBfva4fTk8OaZnlDdvN_zaXaey0MrezCFo";
+        var reg_url = "https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B111-05-11.pdf";
+        var rules_url = "https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf";
         const message = document.getElementById("messageInput").value;
         document.getElementById("chatHistory").innerHTML +=
             "<div><div class='author'>You:</div>" + message + "</div>";
