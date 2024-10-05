@@ -1,6 +1,6 @@
-- menu_name: "總幹事服務"
+- menu_name: "Services"
 
-- name: "聯絡訊息"
+- name: "Contact"
   url: "/contact/"
   title: "Contact"
 
