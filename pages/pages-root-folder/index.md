@@ -22,7 +22,7 @@ widget2:
   2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
   3. 全面評估社區修繕事項<br/>
   4. 革新工程採購制度<br/> 
-  5. 優化事務管理,制定規約落實制度<br/>
+  5. 優化管理修訂規約<br/>
   6. 建置財務查詢系統<br/>
   7. 建立社區志工小組<br/>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/blob/gh-pages/images/coconutcity30050-nightview-video-459x258.png?raw=true" width="302" height="182" alt=""/></a>'
@@ -35,9 +35,6 @@ widget3:
   
 #
 # Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
 #
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
