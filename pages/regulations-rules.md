@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/73df3911-399d-4bdf-aa55-57a6fc4ea80a)---
 layout              : page
 show_meta           : false
 title               : "法規 ＆ 規約"
@@ -63,13 +63,16 @@ permalink           : "/regulations-rules/"
 
 <div class="inputs">
     <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
-    <button onclick="sendMessage()">Send</button>
+    <button onclick="sendMessage()">送出</button>
 </div>
-<button onclick="document.getElementById('chatHistory').value = ''">Clear Chats</button>
+<button onclick="clearMesage()">清除</button>
 
 <script>
     const converter = new showdown.Converter();
     let thread = [];
+    function clearMessage() {
+        document.getElementById("chatHistory").innerHTML = " ";
+    }
     function sendMessage() {
         /*var apiKey = document.getElementById("apiKey").value;*/
         var apiKey = "AIzaSyBfva4fTk8OaZnlDdvN_zaXaey0MrezCFo";
