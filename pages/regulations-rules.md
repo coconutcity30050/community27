@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/73df3911-399d-4bdf-aa55-57a6fc4ea80a)---
+---
 layout              : page
 show_meta           : false
 title               : "法規 ＆ 規約"
