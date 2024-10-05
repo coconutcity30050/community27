@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "法規 ＆ 規約"
+title               : "法規與須知"
 subheadline         : "恪守規約, 戶戶有責"
 teaser              : "社區規約是公寓大廈管理組織成立與運作的依據，也是規範住戶權利義務關係的重要依據"
 header:
@@ -18,6 +18,11 @@ permalink           : "/regulations-rules/"
 [椰城社區規約與管理辦法113-05-10.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">查看本屆社區公告文件 ›</a><br>
+
+---
+## 市府宣導
+
+### [防災手冊]()
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
