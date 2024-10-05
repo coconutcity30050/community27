@@ -1,13 +1,13 @@
 - menu_name: "緊急聯絡"
 
-- name: "防火與電機"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- name: "防火與機電"
+  url: "https://www.goingnet.com.tw/about/contact"
+  class: "firesafe-electricial"
+  title: "國霖機電"
 
 - name: "環保與清潔"
   url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
+  class: "clearning-recycling"
   title: "Built on Foundation"
 
 - name: "保全與物業"
