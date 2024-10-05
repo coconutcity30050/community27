@@ -25,18 +25,19 @@ image:
 mediaplayer: true
 ---
 
-### [社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos)
+## [社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos)
 
+### 社區宣傳
 [![](https://markdown-videos-api.jorgenkh.no/youtube/Z7l5DZwq85g)](https://youtu.be/Z7l5DZwq85g)
 
+---
+### 社區店家
 [![](https://markdown-videos-api.jorgenkh.no/youtube/w3YGEe1UFl8)](https://youtu.be/w3YGEe1UFl8)
-
 [![](https://markdown-videos-api.jorgenkh.no/youtube/eXpABeZpIqU)](https://youtu.be/eXpABeZpIqU)
-
 [![](https://markdown-videos-api.jorgenkh.no/youtube/HVRXFABzPbA)](https://youtu.be/HVRXFABzPbA)
 
 ---
-### 社區音頻
+### 音頻紀錄（example)
 
 <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio>
 
