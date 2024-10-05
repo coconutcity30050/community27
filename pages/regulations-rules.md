@@ -63,15 +63,15 @@ permalink           : "/regulations-rules/"
 
 <div class="inputs">
     <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
-    <button onclick="sendMessage()">送出</button>
+    <button onclick="sendMessage()">Send</button>
 </div>
-<button onclick="clearMesage()">清除</button>
+<button onclick="clearMesage()">Clear</button>
 
 <script>
     const converter = new showdown.Converter();
     let thread = [];
     function clearMessage() {
-        document.getElementById("chatHistory").innerHTML = " ";
+        document.getElementById("chatHistory").value = " ";
     }
     function sendMessage() {
         /*var apiKey = document.getElementById("apiKey").value;*/
