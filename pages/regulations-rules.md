@@ -17,12 +17,12 @@ permalink           : "/regulations-rules/"
 
 [椰城社區規約與管理辦法113-05-10.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">查看本屆社區公告文件 ›</a><br>
-
 ---
 ## 市府宣導
 
 ### [防災手冊](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%96%B0%E7%AB%B9%E5%B8%82%E9%98%B2%E7%81%BD%E6%89%8B%E5%86%8A.pdf)
 
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">查看本屆社區公告文件 ›</a><br>
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
