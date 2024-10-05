@@ -65,14 +65,10 @@ permalink           : "/regulations-rules/"
     <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
     <button onclick="sendMessage()">Send</button>
 </div>
-<button onclick="clearMesage()">Clear</button>
 
 <script>
     const converter = new showdown.Converter();
     let thread = [];
-    function clearMessage() {
-        document.getElementById("chatHistory").value = " ";
-    }
     function sendMessage() {
         /*var apiKey = document.getElementById("apiKey").value;*/
         var apiKey = "AIzaSyBfva4fTk8OaZnlDdvN_zaXaey0MrezCFo";
