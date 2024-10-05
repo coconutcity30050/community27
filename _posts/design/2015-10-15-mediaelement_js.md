@@ -42,4 +42,4 @@ mediaplayer: true
 
 ----
 ### 參考資料
-* [1]: [http://mediaelementjs.com/](http://mediaelementjs.com/)
+* [http://mediaelementjs.com/](http://mediaelementjs.com/)
