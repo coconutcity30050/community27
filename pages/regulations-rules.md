@@ -57,7 +57,7 @@ permalink           : "/regulations-rules/"
     }
 </style>
 <div class="inputs">
-    <input type="text" id="messageInput" placeholder="請問社區管委會的職責是什麼？"/>
+    <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
     <button onclick="sendMessage()">Send</button>
 </div>
 
