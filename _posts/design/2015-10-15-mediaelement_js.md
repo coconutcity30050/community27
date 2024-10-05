@@ -28,9 +28,12 @@ mediaplayer: true
 ### [社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos)
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/Z7l5DZwq85g)](https://youtu.be/Z7l5DZwq85g)
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/w3YGEe1UFl8)](https://youtu.be/w3YGEe1UFl8)
-[![](https://markdown-videos-api.jorgenkh.no/youtube/w3YGEe1UFl8)](https://youtu.be/eXpABeZpIqU)
-[![](https://markdown-videos-api.jorgenkh.no/youtube/w3YGEe1UFl8)](https://youtu.be/HVRXFABzPbA)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/eXpABeZpIqU)](https://youtu.be/eXpABeZpIqU)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/HVRXFABzPbA)](https://youtu.be/HVRXFABzPbA)
 
 ---
 ### 社區音頻
