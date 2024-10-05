@@ -41,5 +41,5 @@ mediaplayer: true
 <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio>
 
 ----
-### 參考資料:
-[1]: http://mediaelementjs.com/
+### 參考資料
+* [1]: [http://mediaelementjs.com/](http://mediaelementjs.com/)
