@@ -56,22 +56,16 @@ permalink           : "/regulations-rules/"
         margin-top: 1rem;
     }
 </style>
-<div class="inputs">
-    <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
-    <button onclick="sendMessage()">Send</button>
-</div>
-
-<clear id="clearButton" value="Clear">清除對話</clear>
 
 <div id="chatHistory">
     <!-- Chat history will appear here -->
 </div>
 
-<script>
-    clearButton.addEventListener('click', () => {
-        chatHistory.innerHTML = '';
-    });
-</script>
+<div class="inputs">
+    <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
+    <button onclick="sendMessage()">Send</button>
+</div>
+<button onclick="document.getElementById('chatHistory').value = ''">Clear Chats</button>
 
 <script>
     const converter = new showdown.Converter();
