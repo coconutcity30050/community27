@@ -23,7 +23,8 @@ permalink           : "/regulations-rules/"
 ### [防災手冊](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%96%B0%E7%AB%B9%E5%B8%82%E9%98%B2%E7%81%BD%E6%89%8B%E5%86%8A.pdf)
 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">查看本屆社區公告文件 ›</a><br>
-<br>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">查看本屆社區公告文件 ›</a>
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+---
+
+ {{ site.url }}{{ site.baseurl }}/documentation/
