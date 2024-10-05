@@ -19,7 +19,9 @@ permalink           : "/regulations-rules/"
 [椰城社區規約與管理辦法113-05-10.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)<br>
 
 ---
-## AI社區法規諮詢
+## 社區聊天機器人
+*目前僅提供普通問答功能, 尚無法提供查詢功能！*<br>
+
 <p><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/gemini_logo.png"></p>
 
 <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
@@ -54,12 +56,6 @@ permalink           : "/regulations-rules/"
         margin-top: 1rem;
     }
 </style>
-<div class="inputs">
-    <input type="checkbox" id="reg_url" name="regulations"/><label for="regulations">公寓大廈管理條例</label>
-</div>
-<div class="inputs">
-    <input type="checkbox" id="rules_url" name="rules" checked/><label for="rules">椰城社區規約與管理辦法</label>
-</div>   
 <div class="inputs">
     <input type="text" id="messageInput" placeholder="Type your message here..."/>
     <button onclick="sendMessage()">Send</button>
