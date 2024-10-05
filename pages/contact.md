@@ -27,8 +27,10 @@ permalink           : "/contact/"
 ---
 ## 政府單位
 
-### [新竹市政府](https://www.hccg.gov.tw/ch/home.jsp?id=46&parentpath=0,7) (03)5216121
-
 ### 消防局金山分隊: (03)6662172
 
 ### 關東橋派出所: (03)5775758
+
+### [新竹市政府](https://www.hccg.gov.tw/ch/home.jsp?id=46&parentpath=0,7) (03)5216121
+
+#### 使用管理科 (03)5269424
