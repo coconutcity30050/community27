@@ -16,8 +16,15 @@ tags:
 # Styling
 #
 header: no
-
+image:
+    title: mediaplayer_js-title.jpg
+    thumb: mediaplayer_js-thumb.jpg
+    homepage: mediaplayer_js-home.jpg
+    caption: Photo by Corey Blaz
+    caption_url: https://blaz.photography/
+mediaplayer: true
 ---
+
 ## [社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos)
 
 ### 社區宣傳
