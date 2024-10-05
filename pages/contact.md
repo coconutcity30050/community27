@@ -7,6 +7,6 @@ teaser              : "管委會電子信箱: cocounitcity30050@gmail.com"
 permalink           : "/contact/"
 ---
 
-## 總幹事辦公室: 03-564-1692 (Manager)
+## 社區總幹事辦公室: 03-564-1692 (Manager)
 
-## 椰城警衛室: 03-577-1388 (Security)
+## 社區保全警衛室: 03-577-1388 (Security)
