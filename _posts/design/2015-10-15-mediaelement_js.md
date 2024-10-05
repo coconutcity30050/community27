@@ -9,22 +9,15 @@ teaser: "管委會直播紀錄,宣傳短片~等等"
 categories:
   - design
 tags:
-  - audio player
-  - video player
-  - streaming music
+  - audio
+  - video
+  - streaming
 #
 # Styling
 #
 header: no
-image:
-    title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
-    caption_url: https://blaz.photography/
-mediaplayer: true
----
 
+---
 ## [社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos)
 
 ### 社區宣傳
