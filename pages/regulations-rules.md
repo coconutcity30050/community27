@@ -24,5 +24,6 @@ permalink           : "/regulations-rules/"
 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">查看本屆社區公告文件 ›</a><br>
+<br>
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
