@@ -3,7 +3,7 @@ layout              : page
 title               : "Contact"
 meta_title          : "Contact and use our contact form"
 subheadline         : "聯絡方式"
-teaser              : "管委會電子信箱: cocounitcity30050@gmail.com"
+teaser              : "管委會電子信箱: cocounitcity30050@gmail.com (Committee)"
 permalink           : "/contact/"
 ---
 
