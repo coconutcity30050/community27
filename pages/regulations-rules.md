@@ -61,9 +61,17 @@ permalink           : "/regulations-rules/"
     <button onclick="sendMessage()">Send</button>
 </div>
 
+<clear id="clearButton" value="Clear">清除對話</clear>
+
 <div id="chatHistory">
     <!-- Chat history will appear here -->
 </div>
+
+<script>
+    clearButton.addEventListener('click', () => {
+        chatHistory.innerHTML = '';
+    });
+</script>
 
 <script>
     const converter = new showdown.Converter();
