@@ -6,7 +6,7 @@ subheadline         : "恪守規約, 戶戶有責"
 teaser              : "社區規約是公寓大廈管理組織成立與運作的依據，也是規範住戶權利義務關係的重要依據"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/regulations-rules/"
+permalink           : "/rules/"
 ---
 ## 椰城社區規約
 * 112年11月16日增訂第十一條之四、第十七條之三、第二十二條
