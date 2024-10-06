@@ -12,7 +12,7 @@
     url: "/rules/"  
 
 - title: "財務與紀要"
-  url: "/blog/"
+  url: "/headers/"
   side: left
   dropdown:
   - title: "財務報告"
@@ -46,7 +46,7 @@
     url: "/design/portfolio/"
 
 - title: "議題討論"
-  url: "/headers/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "魚池涼亭修繕"
