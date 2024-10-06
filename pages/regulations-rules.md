@@ -10,7 +10,7 @@ permalink           : "/regulations-rules/"
 ---
 ## 法律條例
 
-[內政部公寓大廈管理條例網頁](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118),
+[內政部公寓大廈管理條例網頁](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118)<br>
 
 <p><embed src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/rules/%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B111-05-11.pdf" type="application/pdf" /></p>
 
