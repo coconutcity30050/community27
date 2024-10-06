@@ -19,6 +19,8 @@
     url: "/finance-reports/"  
   - title: "社區公告"
     url: "/bulletin-board/"
+  - title: "會議紀錄"
+    url: "/video-meeting/"
     
 - title: "場所與設備"
   url: "/design/"
@@ -38,8 +40,6 @@
     url: "/design/page-fullwidth/"
   - title: "Blog-Page"
     url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
   - title: "Gallery"
     url: "/design/gallery/"
   - title: "Portfolio"
