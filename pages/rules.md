@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "椰城社區規約"
+title               : "社區規約"
 subheadline         : "恪守規約, 戶戶有責"
 teaser              : "社區規約是公寓大廈管理組織成立與運作的依據，也是規範住戶權利義務關係的重要依據"
 header:
