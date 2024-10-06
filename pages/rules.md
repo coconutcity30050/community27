@@ -9,7 +9,7 @@ header:
 permalink           : "/rules/"
 ---
 
-<input id="searchInput" onkeyup="searchHighlighter('.', this)" placeholder="Type here" />
+<input id="searchInput" onkeyup="searchHighlighter('.', this)" placeholder="Type here" />搜尋</input>
  
 <script>
 const searchHighlighter = (elem, that) => {
