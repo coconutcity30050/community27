@@ -16,7 +16,7 @@ widget1:
   
 widget2:
   title: "第27屆之政見與任務"
-  url: 'http://coconutcity30050.github.io/community27/info/'
+  url: 'https://coconutcity30050.github.io/community27/info'
   text: '<em>CoconutCityy 30050</em><br/>
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
   2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
@@ -29,7 +29,7 @@ widget2:
   
 widget3:
   title: "管委會之使命與願景"
-  url: 'https://github.com/coconutcity30050/community27'
+  url: 'https://coconutcity30050.github.io/community27'
   image: widget-github-303x182.jpg
   text: '<em>資訊公開透明, 制度科技化管理, 社區創新服務, 快樂分享生活'
   
@@ -41,8 +41,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://coconutcity30050.github.io/community27
+  text: 社區論議題討論
   style: alert
 permalink: /index.html
 #
