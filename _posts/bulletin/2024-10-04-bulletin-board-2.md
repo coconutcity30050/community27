@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "社區公告"
+title:  "113年度第27屆第二次區權會會議通知"
 subheadline:  "公告欄"
 teaser: "公開透明,人人監督."
 categories:
