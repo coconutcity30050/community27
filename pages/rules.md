@@ -9,7 +9,7 @@ header:
 permalink           : "/rules/"
 ---
 
-<input id="searchInput" onkeyup="searchHighlighter('#content', this)" placeholder="Type here" />
+<input id="searchInput" onkeyup="searchHighlighter('.', this)" placeholder="Type here" />
  
 <script>
 const searchHighlighter = (elem, that) => {
@@ -22,7 +22,6 @@ const searchHighlighter = (elem, that) => {
 }
 </script>
 
-<div id="content">
 ## [椰城社區規約](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)
 <br>
 * 112年11月16日增訂第十一條之四、第十七條之三、第二十二條
@@ -667,8 +666,6 @@ const searchHighlighter = (elem, that) => {
 茲收到□現金 20,000 元□支票銀行___________________________ 票號 _______________<br>
 
 繳交裝潢保證金簽收者：______________________ <br>
-
-</div>
 
 ---
 ### 訂註：
