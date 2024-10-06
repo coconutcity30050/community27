@@ -106,19 +106,10 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
-      type: 'pages'
-    values:
-      show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: phlow     # Default author for pages
-  -
-    scope:
-      path: ''
+      path: ''          # an empty string here means all files in the project
       type: 'posts'
     values:
-      show_meta: true   # Show metadata for all posts
+      show_meta: false  # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: rkuo2000     # Default author for posts
@@ -177,7 +168,7 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image                             : 'https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity_frontview_1600x503.jpg'
 og_locale                            : 'en_EN'
 og_type                              : 'website'
 
@@ -192,8 +183,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : coconutcity30050
+    facebook  : coconutcity30050
 
 
 #        ____  _
