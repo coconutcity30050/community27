@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Video Meeting"
-title: "管委會會議"
-teaser: "第27屆管委會 會議直播影片"
+title: "社區管委會會議"
+teaser: "第27屆管委會會議 YouTube直播"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/video-meeting/"
