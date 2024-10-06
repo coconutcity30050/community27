@@ -12,11 +12,11 @@
     url: "/rules/"  
 
 - title: "財務與紀要"
-  url: "/headers/"
+  url: "/finance-reports/"
   side: left
   dropdown:
   - title: "財務報告"
-    url: "/blog/archive/"  
+    url: "/finance-reports/"  
   - title: "會議紀要"
     url: "/blog/archive/"
     
