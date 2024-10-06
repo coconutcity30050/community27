@@ -1,8 +1,8 @@
 ---
 layout: video
 show_meta: false
-title: "管委會會議"
-subheadline: "直播影片"
+title: "管委會會議10-29"
+subheadline: "YouTube直播"
 teaser: "!!!!!!!!!"
 tags:
     - meeting
