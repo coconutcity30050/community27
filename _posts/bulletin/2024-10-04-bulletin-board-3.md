@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "社區公告"
+title:  "113年度第27屆管委會委員選舉通知"
 subheadline:  "公告欄"
 teaser: "公開透明,人人監督."
 categories:
