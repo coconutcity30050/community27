@@ -17,8 +17,8 @@
   dropdown:
   - title: "財務報告"
     url: "/finance-reports/"  
-  - title: "會議紀要"
-    url: "/blog/archive/"
+  - title: "社區公告"
+    url: "/bulletin-board/"
     
 - title: "場所與設備"
   url: "/design/"
