@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "社區公告"
+title:  "電梯工程繳費通知與請款單"
 subheadline:  "公告欄"
 teaser: "公開透明,人人監督."
 categories:
