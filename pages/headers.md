@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Header"
-title: "Style your Header!"
+title: "財務報表"
 teaser: "header image is 16:9, the width should be 1600 pixels"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
