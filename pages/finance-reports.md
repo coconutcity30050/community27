@@ -15,3 +15,9 @@ permalink: "/finance-reports/"
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+---
+### 社區財務規劃
+
+![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/reports/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%802024~2032%E8%B2%A1%E5%8B%99%E8%A6%8F%E5%8A%83.jpg)
+
