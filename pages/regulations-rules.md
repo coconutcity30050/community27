@@ -10,13 +10,16 @@ permalink           : "/regulations-rules/"
 ---
 ## 法律條例
 
-[內政部公寓大廈管理條例網頁](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118),&nbsp;&nbsp;&nbsp;&nbsp;( [公寓大廈管理條例111-05-11.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B111-05-11.pdf) )
+[內政部公寓大廈管理條例網頁](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118),
+
+<p><embed src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/rules/%E5%85%AC%E5%AF%93%E5%A4%A7%E5%BB%88%E7%AE%A1%E7%90%86%E6%A2%9D%E4%BE%8B111-05-11.pdf" type="application/pdf" /></p>
 
 ---
 ## 社區規約
 
-[椰城社區規約與管理辦法](http://coconutcity30050.github.io/community27/rules/), &nbsp;&nbsp;&nbsp;&nbsp; (
-[椰城社區規約與管理辦法113-05-10.pdf](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf) )
+[椰城社區規約與管理辦法](http://coconutcity30050.github.io/community27/rules/)<br>
+
+<p><embed src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf" type="application/pdf" /></p><br>
 
 ---
 ## 市府宣導
