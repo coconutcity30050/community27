@@ -5,6 +5,11 @@
 - title: 規約與須知
   url: "/regulations-rules/"
   side: left
+  dropdown:
+  - title: "政府法規"
+    url: "/regulations-rules/"  
+  - title: "社區規約"
+    url: "/rules/"  
 
 - title: "財務與紀要"
   url: "/blog/"
