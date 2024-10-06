@@ -5,7 +5,7 @@ title: "社區公告"
 teaser: "管委會各項公告"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/bulletin/"
+permalink: "/bulletin-board/"
 ---
 
 <ul>
