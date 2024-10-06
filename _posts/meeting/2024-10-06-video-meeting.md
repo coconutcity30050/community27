@@ -24,10 +24,5 @@ video:
     embedURL: "https://www.youtube.com/embed/Z7l5DZwq85g"
     contentURL: "https://www.youtube.com/watch?v=Z7l5DZwq85g"
     thumbnailUrl: "http://img.youtube.com/vi/Z7l5DZwq85g/maxresdefault.jpg"
+    
 ---
-
-<!--more-->
-
-## About the video
-
-Source: [椰城之夜](https://youtu.be/Z7l5DZwq85g)
