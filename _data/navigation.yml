@@ -6,7 +6,7 @@
   url: "/regulations-rules/"
   side: left
   dropdown:
-  - title: "政府法規"
+  - title: "法規須知"
     url: "/regulations-rules/"  
   - title: "社區規約"
     url: "/rules/"  
