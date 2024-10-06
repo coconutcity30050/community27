@@ -8,6 +8,29 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/rules/"
 ---
+<form id="form" role="search">
+  <input type="search" id="query" name="q"
+   placeholder="Search..."
+   aria-label="Search through site content">
+  <button>Search</button>
+</form>
+
+<script>
+  const f = document.getElementById('form');
+  const q = document.getElementById('query');
+  const google = 'https://www.google.com/search?q=site%3A+';
+  const site = 'coconutcity30050.github.io/community27/rules';
+
+  function submitted(event) {
+    event.preventDefault();
+    const url = google + site + '+' + q.value;
+    const win = window.open(url, '_blank');
+    win.focus();
+  }
+
+  f.addEventListener('submit', submitted);
+</script>
+
 ## [椰城社區規約](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)
 <br>
 * 112年11月16日增訂第十一條之四、第十七條之三、第二十二條
