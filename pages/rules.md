@@ -663,16 +663,3 @@ permalink           : "/rules/"
 * 管理辦法七與一重複, 應予移除
 
 ---
-
-<input id="searchInput" onkeyup="searchHighlighter('. ', this)" placeholder="Type here" />
- 
-<script>
-const searchHighlighter = (elem, that) => {
-  let el = document.querySelector(elem)
-      el.innerHTML = el.innerText
-        .replace( new RegExp( that.value + '(?!([^<]+)?<)', 'gi'),
-        '<mark>$&</mark>'
-    );
-  return el
-}
-</script>
