@@ -8,7 +8,7 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/rules/"
 ---
-## 椰城社區規約
+## [椰城社區規約](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)
 <br>
 * 112年11月16日增訂第十一條之四、第十七條之三、第二十二條
 * 113年5月10日修訂第五條之五
