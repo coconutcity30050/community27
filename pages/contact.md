@@ -38,7 +38,7 @@ permalink           : "/contact/"
 #### 使用管理科 (03)5269424 (Community Dept.)
 
 ---
-## Community website QR codes
+## 社區網頁 (Community webpage) QR codes
 
 <p>
 <img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/websiteQR.png">
