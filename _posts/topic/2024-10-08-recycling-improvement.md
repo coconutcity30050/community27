@@ -9,32 +9,15 @@ tags:
     - recycling
 ---
 
-### 垃圾及廚餘
+## 回收現況
 
-#### 垃圾子車每週1,3,5,6早上清運
-
-#### 廚餘每週2,4,6早上清運
-
----
-### 回收物
-
-**環保局：** 打電話通報回收後，大約3-5天才來，是社區要配合環保局時間<br>
-
-**戴先生：** 週一、週三
-
-**大豐：** 週五
-
----
-### 回收物儲存現況
-
-#### Date: 2024/10/08 (環保局派車)
+### Date: 2024/10/08 (環保局派車)
 **Time:** 16:57 vs 18:36<br>
 <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E7%89%A9%E5%84%B2%E5%AD%98%E8%99%95-2014-10-08-16-57.jpg"></p>
 <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E7%89%A9%E5%84%B2%E5%AD%98%E8%99%95-2014-10-08-18-36.jpg"></p>
 
 ---
-## 改善建議
-
+## 問題與方案
 
 *歡迎至[社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)留言發表意見！* <br>
 
