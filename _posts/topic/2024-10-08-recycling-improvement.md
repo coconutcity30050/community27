@@ -8,8 +8,18 @@ categories:
 tags:
     - recycling
 ---
+## 回收清運
 
-## 垃圾回收現況
+### 清運時程
+
+**環保局：** 打電話通報後，大約3-5天才來，是社區要配合環保局時間<br>
+
+**戴先生：** 週一、週三
+
+**大豐：** 週五
+  
+---
+### 回收現況
 
 ### Date: 2024/10/08 (環保局派車)
 **Time:** 16:57 vs 18:36<br>
@@ -17,28 +27,16 @@ tags:
 <p><img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E7%89%A9%E5%84%B2%E5%AD%98%E8%99%95-2014-10-08-18-36.jpg"></p>
 
 ---
-### 環保局回收時程
-
-
----
-### 私人回收廠時程
-
-* 大豐
-
-* 戴先生
-
----
 ## 改善建議
 
 *歡迎至[社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)留言發表意見！* <br>
 
 
----
-### 協助清運
+### 清理協助
 
-1. 招募清潔志工
+1. 招募清潔志工協助
 
-2. 夜間警衛協助清理
+2. 商請夜間警衛協助
 
 ---
 ### 垃圾場增添回收桶
