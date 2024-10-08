@@ -40,6 +40,7 @@ permalink           : "/contact/"
 ---
 ## 社區網頁 (Community webpage) QR codes
 
+<br>
 <p>
 <img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/websiteQR.png">
 <img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/circleQR.png">
