@@ -6,19 +6,17 @@
   url: "/regulations-rules/"
   side: left
   dropdown:
-  - title: "法規須知"
-    url: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"  
+  - title: "法條規約"
+    url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118
   - title: "社區規約"
     url: "/rules/"  
 
-- title: "財務與公告"
+- title: "財務與紀錄"
   url: "/finance-reports/"
   side: left
   dropdown:
   - title: "財務報告"
     url: "/finance-reports/"  
-  - title: "社區公告"
-    url: "/bulletin-board/"
   - title: "會議紀錄"
     url: "/video-meeting/"
     
@@ -76,10 +74,12 @@
   - title: "管理費率改良方案"
     url: "/topic/fee-rate-proposals/"
 
-- title: "規劃與公告"
+- title: "社區公告"
   url: "/documentation/"
   side: left
   dropdown:
+  - title: "社區公告"
+    url: "/bulletin-board/"  
   - title: "Roadmap"
     url: "/roadmap/"  
   - title: "Changelog"
