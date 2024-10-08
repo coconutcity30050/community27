@@ -28,9 +28,17 @@ permalink: "/recycling-info/"
 ![]()
 
 ---
+### 回收物宣導
+![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/recycle-categories-zh.png)
+![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/recycle-categories-en.png)
+
+---
 ## 相關規定
 
-### 
+### 椰城規約~新規約
+
+社區未依規定做好垃圾分類者,以致清潔隊拒收,依違反廢棄物清理法第 12 條第 1 項及一般廢棄物回收清除處理辦法第 14 條第 1 項之規定,依同法第 50 條第 2 款之規定處以新臺幣 1,200~6,000 元罰款,管委會將調閱監視器並公告,罰款則由違規住戶負擔。<br>
+
 ---
 ### 椰城規約之環境與衛生維護辦法
 <br>
