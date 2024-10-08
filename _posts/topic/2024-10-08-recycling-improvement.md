@@ -19,7 +19,7 @@ tags:
 
 ---
 ### 清運時程
-<br>
+
 
 **環保局：** 打電話通報後，大約3-5天才來，是社區要配合環保局時間<br>
 
@@ -29,13 +29,13 @@ tags:
   
 ---
 ## 改善建議
-<br>
+
 
 *歡迎至[社區頻道](https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)留言發表意見！* <br>
 
 
 ### 清理協助
-<br>
+
 
 1. 招募清潔志工協助
 
@@ -43,7 +43,7 @@ tags:
 
 ---
 ### 垃圾場增添回收桶
-<br>
+
 
 **社區頻道:** [垃圾場增添回收桶方案](https://www.youtube.com/post/Ugkx8IZQ87PSm42disckp7Hz3XbJ2l4nQ40G) (*歡迎至YouTube頻道留言發表意見！*) <br>
 
