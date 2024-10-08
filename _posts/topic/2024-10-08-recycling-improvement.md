@@ -21,13 +21,13 @@ tags:
 
 ![](https://yt3.ggpht.com/Wzo4D-CG6fVioC-AxDiAV-0WVYYDRwAYWGQqKpbmeSitX6ZJxSaUUbSpwOrAnxIw7-T555--SOjXRg=s884-nd-v1)
 
-
 ---
 ## 回收廢棄物
 
-### 儲存
-
-
-### 清運
-
+### Date: 2024/10/08 (環保局派車)
+**Time:** 16:57 vs 18:36<br>
+<p>
+<img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E7%89%A9%E5%84%B2%E5%AD%98%E8%99%95-2014-10-08-16-57.jpg">
+<img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E7%89%A9%E5%84%B2%E5%AD%98%E8%99%95-2014-10-08-18-36.jpg">
+</p>
 
