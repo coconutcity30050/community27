@@ -19,7 +19,16 @@
     url: "/finance-reports/"  
   - title: "會議紀錄"
     url: "/video-meeting/"
-    
+
+- title: "門禁與環保"
+  url: "/rfid-recycling/"
+  side: left
+  dropdown:
+  - title: "門禁管制須知"
+    url: "/assess-control/"
+  - title: "垃圾回收須知"
+    url: "/recycliing-info/"
+  
 - title: "場所與設備"
   url: "/places/"
   side: left
@@ -58,22 +67,24 @@
 - title: "議題討論"
   url: "/topic/"
   side: left
-  dropdown:
+  dropdown:   
   - title: "魚池涼亭"
     url: "/topic/ponds-pavilion/"
-  - title: "中庭磁磚與親水池"
+  - title: "中庭磁磚及親水池"
     url: "/topic/court-yard/"
   - title: "中庭花圃養護"
     url: "/topic/atrium-garden/"
-  - title: "各棟頂樓防水工程"
+  - title: "頂樓防水工程"
     url: "/topic/rooftop-waterproof/"
-  - title: "門禁管制改善方案"
-    url: "/topic/access-control/"
-  - title: "垃圾回收改善方案"
-    url: "/topic/recycling-improvement/"
-  - title: "管理費率改良方案"
+  - title: "頂樓管線防鏽"
+    url: "/topic/rooftop-pipes/"
+  - title: "頂樓抽風馬達維護"
+    url: "/topic/rooftop-motors/"
+  - title: "垃圾回收改善"
+    url: "/topic/recycling-improvement/"     
+  - title: "管理費率改良"
     url: "/topic/fee-rate-proposals/"
-
+    
 - title: "社區公告"
   url: "/documentation/"
   side: left
