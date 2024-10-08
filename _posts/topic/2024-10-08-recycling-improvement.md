@@ -11,7 +11,9 @@ tags:
 
 ## 回收室
 
-### [垃圾場增添回收桶方案](https://www.youtube.com/post/Ugkx8IZQ87PSm42disckp7Hz3XbJ2l4nQ40G)
+### 垃圾場增添回收桶方案
+**社區頻道:** [垃圾場增添回收桶方案](https://www.youtube.com/post/Ugkx8IZQ87PSm42disckp7Hz3XbJ2l4nQ40G) *歡迎至YouTube頻道留言發表意見！* <br>
+
 **提案人**：`A2-CK` 垃圾回收室改善方案<br>
 
 因年長住戶們指出目前回收室的階梯太高, 提著大小包回收物容易跌倒受傷, 是不可忽視的公安問題
