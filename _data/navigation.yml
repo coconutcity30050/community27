@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "法規須知"
-    url: "/regulations-rules/"  
+    url: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118"  
   - title: "社區規約"
     url: "/rules/"  
 
