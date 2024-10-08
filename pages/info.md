@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "關於網站"
-subheadline: "採用github webpage 提供免費網頁, 利用Jekyll之主題模版"
-teaser: "...."
+subheadline: "Jekyll Theme"
+teaser: "採用github webpage 提供免費網頁, 利用Jekyll之主題模版"
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
