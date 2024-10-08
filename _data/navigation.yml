@@ -10,7 +10,7 @@
     url: https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118
   - title: "社區規約"
     url: "/rules/"  
-
+    
 - title: "財務與紀錄"
   url: "/finance-reports/"
   side: left
@@ -19,9 +19,9 @@
     url: "/finance-reports/"  
   - title: "會議紀錄"
     url: "/video-meeting/"
-
+    
 - title: "門禁與環保"
-  url: "/rfid-recycling/"
+  url: "/assess-recycling/"
   side: left
   dropdown:
   - title: "門禁管制須知"
