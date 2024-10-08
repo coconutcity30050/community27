@@ -49,16 +49,17 @@ sitemap: false
 </div>
 
 <div class="inputs">
-    <input type="text" id="messageInput" placeholder="請於此處輸入您的問題,我將盡力回答您！"/>
+    <input type="password" id="apiKey" placeholder="API Key" />
+    <input type="text" id="messageInput" placeholder="請輸入問題"/>
     <button onclick="sendMessage()">Send</button>
+   
 </div>
 
 <script>
     const converter = new showdown.Converter();
     let thread = [];
     function sendMessage() {
-        /*var apiKey = document.getElementById("apiKey").value;*/
-        var apiKey = "AIzaSyBfva4fTk8OaZnlDdvN_zaXaey0MrezCFo";
+        var apiKey = document.getElementById("apiKey").value;
         const message = document.getElementById("messageInput").value;
         document.getElementById("chatHistory").innerHTML +=
             "<div><div class='author'>You:</div>" + message + "</div>";
