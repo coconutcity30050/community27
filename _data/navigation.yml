@@ -78,10 +78,10 @@
     url: "/topic/rooftop-pipes/"
   - title: "頂樓抽風馬達維護"
     url: "/topic/rooftop-motors/"
-  - title: "社區門禁"
-    url: "/topic/assess-control/"
   - title: "樓梯間與地下室照明"
-    url: "/topic/light-bulbs/"     
+    url: "/topic/light-bulbs/"
+  - title: "社區門禁"
+    url: "/topic/assess-control/"    
     
 - title: "社區公告"
   url: "/documentation/"
