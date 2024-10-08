@@ -50,6 +50,11 @@ permalink: /index.html
 homepage: true
 ---
 
+<p>
+<img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/circleQR.png">
+<img src="https://github.com/coconutcity30050/community27/raw/gh-pages/assets/img/websiteQR.png)">
+</p>
+
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="925" height="520" src="https://www.youtube.com/embed/Z7l5DZwq85g" title="椰城之夜 (feat. 新竹椰城社區~E棟頂樓)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
