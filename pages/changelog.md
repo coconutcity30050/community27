@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "版本修訂"
-meta_title: "Feeling Responsive Theme Changelog"
+meta_title: "CoconutCity Community Changelog"
 subheadline: "History and Changelog"
 teaser: "網頁版本之修訂紀錄"
 header:
@@ -9,7 +9,7 @@ header:
 permalink: "/changelog/"
 ---
 2024-10-06 // Version 0.01
-:   網頁初稿 github webpage, 承自 Jekyll 的  *Feeling Responsive* works smoothly with [Jekyll 3.0](http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/).
+:   網頁初稿 github webpage, 源自 [Jekyll 3.0](http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/) Feeling Responsive template
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
