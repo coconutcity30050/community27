@@ -44,8 +44,8 @@ widget3:
   url: 'https://coconutcity30050.github.io/community27/'
   image: widget-github-303x182.jpg  
   text: '<em>資訊公開透明, 制度科技化管理, 社區創新服務, 快樂分享生活</em><br/>
-  Q4`24 評估修繕與排序, 增訂`委員選舉管理辦法`, 討論垃圾回收改善 <br/>
-  Q1`25 增訂`採購管理辦法`, 完成預算內之社區修繕, 完成臨時區權會決議<br/>'
+  Q4`24 評估修繕與排序, 增訂委員選舉管理辦法, 討論垃圾回收改善 <br/>
+  Q1`25 增訂採購管理辦法, 完成預算內之社區修繕, 完成臨時區權會決議<br/>'
    
 #
 # Use the call for action to show a button on the frontpage
