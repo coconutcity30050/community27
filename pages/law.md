@@ -11,7 +11,7 @@ permalink           : "/law/"
 <br>
 
 # [公寓大廈管理條例](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118)
-[English](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0070118)<br>
+**[English](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0070118)** <br>
 
 ## 第 一 章 總則
 
