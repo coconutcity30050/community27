@@ -41,5 +41,5 @@ tags:
 
 ---
 ### E棟水塔管線 現況
-!(https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/E1%E9%A0%82%E6%A8%93_%E6%B0%B4%E5%A1%94%E7%AE%A1%E7%B7%9A.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/E1%E9%A0%82%E6%A8%93_%E6%B0%B4%E5%A1%94%E7%AE%A1%E7%B7%9A.jpg?raw=true)
 
