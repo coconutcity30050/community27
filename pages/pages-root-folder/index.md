@@ -13,6 +13,7 @@ widget1:
   url: 'https://coconutcity30050.github.io/community27/committee/'
   image: widget-1-302x182.jpg
   text: '<em>10/17完成管理委員選舉, 10/29完成管委會委員選任 !<em/>'
+  
 widget2:
   title: "第27屆之政見與任務"
   url: 'https://coconutcity30050.github.io/community27/info/'
