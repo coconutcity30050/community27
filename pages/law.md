@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "公寓大廈管理條例" 
+title               : "中央法規" 
 subheadline         : "法規類別：行政 ＞ 內政部 ＞ 國土管理目"
 teaser              : "修正日期： 民國 111 年 05 月 11 日"
 header:
@@ -9,9 +9,9 @@ header:
 permalink           : "/law/"
 ---
 <br>
-<br>
 
 # [公寓大廈管理條例](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118)
+[English](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0070118)<br>
 
 ## 第 一 章 總則
 
