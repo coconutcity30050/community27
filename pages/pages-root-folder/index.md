@@ -13,7 +13,7 @@ widget1:
   url: 'https://coconutcity30050.github.io/community27/committee/'
   image: widget-1-302x182.jpg
   text: '<em>10/17已完成管理委員選舉</em><br/><br/>
-  <u>10/29 20:00 會議議程:</u><br/>
+  <u>10/29 8pm 會議議程:</u><br/>
   0. 執行會議直播&錄影<br/>
   1. 完成管委會委員選任<br/> (由總幹事備單交前後任委員簽名完成交接)<br/>
   2. 決議郵寄存證信函給欠繳管理費之住戶<br/>
