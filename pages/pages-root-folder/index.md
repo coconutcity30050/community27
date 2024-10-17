@@ -12,8 +12,7 @@ widget1:
   title: "管委會成員與職掌"
   url: 'https://coconutcity30050.github.io/community27/committee'
   image: widget-1-302x182.jpg
-  text: '10/17完成管理委員選舉, 10/29完成管委會委員選任!'
-  
+  text: '10/17完成管理委員選舉, 10/29完成管委會委員選任!'  
 widget2:
   title: "第27屆之政見與任務"
   url: 'https://coconutcity30050.github.io/community27/info'
@@ -24,8 +23,7 @@ widget2:
   4. 增訂選舉管理辦法<br/> 
   5. 增訂採購管理辦法<br/>
   6. 召集社區志工小組<br/>
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity30050-nightview-video-459x258.png" width="302" height="182" alt=""/></a>'
-  
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity30050-nightview-video-459x258.png" width="302" height="182" alt=""/></a>'  
 widget3:
   title: "管委會之使命與願景"
   url: 'https://coconutcity30050.github.io/community27'
