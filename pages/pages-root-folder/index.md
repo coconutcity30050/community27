@@ -13,7 +13,6 @@ widget1:
   url: 'http://coconutcity30050.github.io/community27/blog/'
   image: widget-1-302x182.jpg
   text: 'Cominig Soon...'
-  image: circleQR.png
   
 widget2:
   title: "第27屆之政見與任務"
