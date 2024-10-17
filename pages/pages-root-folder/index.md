@@ -47,7 +47,7 @@ widget3:
   title: "管委會之使命與願景"
   url: 'https://coconutcity30050.github.io/community27/'
   image: widget-github-303x182.jpg  
-  text: '<em>資訊公開透明, 制度科技化管理, 社區創新服務, 快樂分享生活</em><br/>
+  text: '<em>公開透明社區資訊, 科技化管理制度, 創新社區服務</em><br/>
   <br/>
   Q4`24 評估修繕與排序, 增訂委員選舉管理辦法, 討論垃圾回收改善, 完成郵寄存證信函至欠繳住戶 <br/>
   <br/>
