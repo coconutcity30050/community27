@@ -17,13 +17,14 @@ widget1:
   0. 執行會議直播&錄影<br/>
   1. 完成管委會委員選任<br/> (由總幹事備單交前後任委員簽名完成交接)<br/>
   2. 決議郵寄存證信函給欠繳管理費之住戶<br/>
-  3. 同意進行建構免費之<a href="http://github.com/coconutcity30050">椰城社區網頁</a>及<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">YouTube社區頻道</a><br/>
+  3. 同意進行建構免費之<a href="http://github.com/coconutcity30050">椰城社區網頁</a>及<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">YT社區頻道</a><br/>
   4. 同意初步估價待修繕事項,以便評估排序<br/>
   5. 同意公告各停車格登記之汽機車<br/>
   6. 是否自動暫停逾期（一個月）未進出汽機車之(eTag)進出權限？<br/>
   7. 同意公告(2週)進行門禁磁扣重新登錄<br/> (每棟住戶安排3日,由總幹事排出日程進行)<br/>
   <br/>
-  會議影片上傳社區頻道,總幹事出會議紀錄傳委員們過目同意<br/>'
+  <em>會議影片上傳YT社區頻道</em><br/>
+  <em>總幹事出會議紀錄傳委員們過目同意!</em><br/>'
   
 widget2:
   title: "第27屆之政見與任務"
