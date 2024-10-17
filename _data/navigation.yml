@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "法律條例"
-    url: /law/
+    url: "/law/"
   - title: "社區規約"
     url: "/rules/"  
     
