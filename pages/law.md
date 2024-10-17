@@ -8,6 +8,8 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/law/"
 ---
+<br>
+<br>
 
 # [公寓大廈管理條例](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070118)
 
