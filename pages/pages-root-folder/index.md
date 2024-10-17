@@ -17,7 +17,7 @@ widget1:
 widget2:
   title: "第27屆之政見與任務"
   url: 'https://coconutcity30050.github.io/community27/info'
-  text: '<em>CoconutCityy 30050</em>'
+  text: '<em>CoconutCityy 30050</em><br/>'
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
   2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
   3. 評估社區修繕事項<br/>
