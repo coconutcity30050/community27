@@ -34,7 +34,8 @@ widget2:
   3. 評估社區修繕事項<br/>
   4. 增訂選舉管理辦法<br/>
   5. 增訂採購管理辦法<br/>
-  6. 召集社區志工小組<br/>'
+  6. 討論垃圾回收改善<br/>
+  7. 召集社區志工小組<br/>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity30050-nightview-video-459x258.png" width="302" height="182" alt=""/></a>'
 widget3:
   title: "管委會之使命與願景"
