@@ -12,12 +12,12 @@ widget1:
   title: "管委會成員與職掌"
   url: 'http://coconutcity30050.github.io/community27/committee'
   image: widget-1-302x182.jpg
-  text: '10/17完成管理委員選舉, 10/29完成管委會委員選任!'
+  text: '<em>10/17完成管理委員選舉, 10/29完成管委會委員選任!</em>'
   
 widget2:
   title: "第27屆之政見與任務"
   url: 'https://coconutcity30050.github.io/community27/info'
-  text: '<em>CoconutCityy 30050</em><br/>
+  text: '<em>CoconutCityy 30050</em><br/>'
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
   2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
   3. 評估社區修繕事項<br/>
@@ -30,7 +30,7 @@ widget3:
   title: "管委會之使命與願景"
   url: 'https://coconutcity30050.github.io/community27'
   image: widget-github-303x182.jpg  
-  text: '<em>資訊公開透明, 制度科技化管理, 社區創新服務, 快樂分享生活'
+  text: '<em>資訊公開透明, 制度科技化管理, 社區創新服務, 快樂分享生活</em>'
    
 #
 # Use the call for action to show a button on the frontpage
