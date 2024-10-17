@@ -37,8 +37,6 @@
     url: "/place/central/"
   - title: "商店街"
     url: "/place/bldg-S/"       
-  - title: "各棟頂樓"
-    url: "/place/rooftop/"
   - title: "A1棟"
     url: "/place/bldg-A1/"
   - title: "A2棟"
