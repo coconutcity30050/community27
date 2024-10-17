@@ -12,7 +12,8 @@ widget1:
   title: "管委會成員與職掌"
   url: 'https://coconutcity30050.github.io/community27/committee/'
   image: widget-1-302x182.jpg
-  text: '<em>10/17已完成管理委員選舉</em><br/><br/>
+  text: '
+  <em>10/17已完成管理委員選舉</em><br/><br/>
   <u>10/29 8pm 會議議程:</u><br/>
   0. 執行會議直播&錄影<br/>
   1. 完成管委會委員選任<br/> (由總幹事備單交前後任委員簽名完成交接)<br/>
@@ -24,19 +25,22 @@ widget1:
   7. 同意公告(2週)進行門禁磁扣重新登錄<br/> (每棟住戶安排3日,由總幹事排出日程進行)<br/>
   <br/>
   <em>會議影片上傳YT社區頻道</em><br/>
-  <em>總幹事出會議紀錄傳委員們過目同意後公告!</em><br/>'
+  <em>總幹事出會議紀錄傳委員們過目同意後公告!</em><br/>
+  '
   
 widget2:
   title: "第27屆之政見與任務"
   url: 'https://coconutcity30050.github.io/community27/info/'
-  text: 'CoconutCity 30050<br/>
+  text: '
+  CoconutCity 30050<br/>
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
   2. 架設<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/content/posts">社區雲端論壇</a><br/>
   3. 評估社區修繕事項<br/>
   4. 增訂選舉管理辦法<br/>
   5. 增訂採購管理辦法<br/>
   6. 討論垃圾回收改善<br/>
-  7. 召集社區志工小組<br/>'
+  7. 召集社區志工小組<br/>
+  '
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity30050-nightview-video-459x258.png" width="302" height="182" alt=""/></a>'
 
 widget3:
@@ -49,9 +53,9 @@ widget3:
   <br/>
   Q1`25 完成部份修繕事項, 增訂採購管理辦法, 完成預算內之社區修繕, 完成臨時區權會決議<br/>
   <br/>
-  Q2`25 ...
+  Q2`25 ...<br/>
   <br/>
-  Q3`25 完成區權會決議及第28屆管理委員選舉
+  Q3`25 完成區權會決議及第28屆管理委員選舉<br/>
   '
    
 #
