@@ -1,10 +1,9 @@
 ---
 layout              : page
 show_meta           : false
-title               : "公寓大廈管理條例"
-subheadline         : "修正日期： 民國 111 年 05 月 11 日"
-
-teaser              : "法規類別：行政 ＞ 內政部 ＞ 國土管理目"
+title               : "公寓大廈管理條例" 
+subheadline         : "法規類別：行政 ＞ 內政部 ＞ 國土管理目"
+teaser              : "修正日期： 民國 111 年 05 月 11 日"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/law/"
