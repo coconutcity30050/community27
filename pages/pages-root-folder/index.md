@@ -12,7 +12,8 @@ widget1:
   title: "管委會成員與職掌"
   url: 'https://coconutcity30050.github.io/community27/committee/'
   image: widget-1-302x182.jpg
-  text: '10/29 管委會會議議程</br>  
+  text: '<em>10/17已完成管理委員選舉</em><br/>
+  10/29 管委會會議議程<br/>  
   1. 完成管委會委員選任<br/>
   2. 決議郵寄存證信函給欠繳管理費之住戶<br/>
   3. 同意進行建構社區網頁<br/>
