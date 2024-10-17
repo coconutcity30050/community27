@@ -13,6 +13,7 @@ widget1:
   url: 'http://coconutcity30050.github.io/community27/blog/'
   image: widget-1-302x182.jpg
   text: 'Cominig Soon...'
+  image: circleQR.png
   
 widget2:
   title: "第27屆之政見與任務"
@@ -25,7 +26,7 @@ widget2:
   5. 優化管理修訂規約<br/>
   6. 建置財務查詢系統<br/>
   7. 建立社區志工小組<br/>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/blob/gh-pages/images/coconutcity30050- 
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/coconutcity30050/community27/raw/gh-pages/images/coconutcity30050-nightview-video-459x258.png" width="302" height="182" alt=""/></a>'
   
 widget3:
   title: "管委會之使命與願景"
