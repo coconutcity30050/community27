@@ -2,7 +2,9 @@
   url: "/"
   side: left
   - title: "成員與職掌"
-    url: "/committe-members/"  
+    url: "/committe-members/"
+  - title: "會議議程"
+    url: "/meeting-agenda/"
 
 - title: 法條與規約
   url: "/regulations-rules/"
