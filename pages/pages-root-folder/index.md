@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   
 widget1:
-  title: "管委會成員與職掌"
+  title: "管委會月會議程"
   url: 'https://coconutcity30050.github.io/community27/committee/'
   image: widget-1-302x182.jpg
   text: '
