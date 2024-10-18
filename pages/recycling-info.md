@@ -8,7 +8,7 @@ header:
 permalink: "/recycling-info/"
 ---
 
-## 清運時程
+## 社區清運時程
 
 <table>
   <tr>
