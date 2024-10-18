@@ -19,7 +19,7 @@ permalink           : "/committe-members/"
 * B2棟： 梁淑賢
 * C1棟： 游鈞華
 * C2棟： 林翠微
-* D1棟： 陳重維
+* D1棟： TBD
 * D2棟： 張麗君
 * E 棟： 郭子仁
 
