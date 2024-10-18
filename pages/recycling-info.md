@@ -13,6 +13,7 @@ permalink: "/recycling-info/"
 <table>
   <tr>
     <th>種類</th>
+    <th>週日</th>      
     <th>週一</th>
     <th>週二</th>
     <th>週三</th>
@@ -21,16 +22,18 @@ permalink: "/recycling-info/"
     <th>週六</th> 
   </tr>
   <tr>
-    <td>垃圾子車</td>
+    <td>  垃圾子車  </td>
+    <td>         </td>     
     <td>環保局清運</td>
-    <td>---------</td>
+    <td>         </td>
     <td>環保局清運</td>
-    <td>---------</td>
+    <td>         </td>
     <td>環保局清運</td>
     <td>環保局清運</td>     
   </tr>
   <tr>
     <td> 回收物 </td>
+    <td>             </td>     
     <td>戴先生(免費)  </td>
     <td>             </td>
     <td>戴先生(免費)   </td>
@@ -39,13 +42,14 @@ permalink: "/recycling-info/"
     <td>             </td> 
   </tr>   
   <tr>
-    <td>  廚 餘   </td>
-    <td>---------</td>
-    <td> 早上清運 </td>
-    <td>---------</td>
-    <td> 早上清運 </td>
-    <td>---------</td>
-    <td> 早上清運 </td> 
+    <td>             </td>     
+    <td>    廚 餘     </td>
+    <td>             </td>
+    <td>   早上清運   </td>
+    <td>             </td>
+    <td>   早上清運   </td>
+    <td>             </td>
+    <td>   早上清運   </td> 
   </tr>
 </table>
 
