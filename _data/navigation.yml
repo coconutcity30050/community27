@@ -1,6 +1,8 @@
 - title: 管理委員會
   url: "/"
   side: left
+  - title: "成員與職掌"
+    url: "/committe-members/"  
 
 - title: 法條與規約
   url: "/regulations-rules/"
