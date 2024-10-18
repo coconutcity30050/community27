@@ -21,8 +21,7 @@ widget1:
   3. 同意進行建構免費之<a href="http://github.com/coconutcity30050">椰城社區網頁</a>及<a href="https://studio.youtube.com/channel/UCWDGBuGMQvoysG398_kcrhw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">YT社區頻道</a><br/>
   4. 同意初步估價待修繕事項,以便評估排序<br/>
   5. 同意公告各停車格登記之汽機車<br/>
-  6. 是否自動暫停逾期(1個月)未進出汽機車之(eTag)權限？<br/>
-  7. 同意公告(2週)進行門禁磁扣重新登錄<br/> (每棟住戶安排3日,由總幹事排出日程進行)<br/>
+  6. 同意公告(2週)進行門禁磁扣重新登錄<br/> (每棟住戶安排3日,由總幹事排出日程進行)<br/>
   <br/>
   <em>會議影片上傳YT社區頻道</em><br/>
   <em>總幹事出會議紀錄傳委員們過目同意後公告!</em><br/>
