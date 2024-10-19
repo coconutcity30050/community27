@@ -3,10 +3,10 @@ layout              : page
 show_meta           : false
 title               : "管委會之會議議程"
 subheadline         : "恪守規約, 委員有責"
-teaser              : " "
+teaser              : "一切共識決議,依管理委員會決議執行規定事項"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/committe-members/"
+permalink           : "/committe-agenda/"
 ---
 
 ## 會議須知
