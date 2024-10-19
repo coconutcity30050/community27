@@ -64,7 +64,7 @@ permalink           : "/committe-members/"
 <tr>
 <td> 監察委員 </td>
 <td> TBD </td> 
-<td> 監督管委會一切事務</td>
+<td> 監督管理委員會一切事務</td>
 <td> 社區事務執行,社區規約,管理辦法,管委會規章制度之檢討與管理 </td>
 <td> 全部合約, 規範,流程</td>
 </tr>
