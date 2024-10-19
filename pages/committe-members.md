@@ -36,6 +36,7 @@ permalink           : "/committe-members/"
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td><div align="center"> 主任委員 </div></td>
 <td><div align="center"> TBD </div></td>   
@@ -46,6 +47,7 @@ permalink           : "/committe-members/"
 4. 權責相符且依照管委會決議事項, 管理委員會會議外的一律共同決議之後才執行</div></td>
 <td><div align="center"> 全部合約 </div></td>
 </tr>
+
 <tr>
 <td><div align="center"> 副主委委員 </div></td>
 <td><div align="center"> TBD </div></td> 
@@ -53,6 +55,7 @@ permalink           : "/committe-members/"
 <td><div align="left"> 協助主任在管理委員會之協助、協助、參與、督導各委員會之事務及執行工作, 必要時代行主委之職務</div></td>
 <td><div align="left"> 社區物業/保全/清潔/法務等合約 </div></td>
 </tr>
+
 <tr>
 <td><div align="center"> 財務委員 </div></td>
 <td><div align="center"> TBD </div></td>    
@@ -60,19 +63,23 @@ permalink           : "/committe-members/"
 <td><div align="left"> 辦理公寓大廈管理委員會之一切事項,管理委員會之財務管理 之收支權限, 以及管理 之依據權責</div></td>
 <td><div align="center"> 簽核支票/社區金融帳戶/出納流程 </div></td>
 </tr>
+
+<tr>
 <td><div align="center"> 監察委員 </div></td>
 <td><div align="center"> TBD </div></td> 
 <td><div align="left"> 監督規章制度管理委員會一切事務之執行</div></td>
 <td><div align="left"> 社區規約,管理辦法,管委會規章制度之檢討與管理</div></td>
 <td><div align="center"> 全部合約與規範 SOP </div></td>
 </tr>
+
 <tr>
 <td><div align="center"> 安全委員 </div></td>
 <td><div align="center"> TBD </div></td>       
 <td><div align="left"> 處理消防與安全相關問題 </div></td>
 <td><div align="left"> 處理消防安全, 門禁管理, 守望相助, 違建事務及其他有關安全事務之宣導與相關設備檢核 </div></td>
 <td><div align="center"> 機電合約及弱電合約 </div></td>   
-</tr>   
+</tr>
+
 <tr>
 <td><div align="center"> 設備委員 </div></td>
 <td><div align="center"> TBD </div></td>       
@@ -80,13 +87,15 @@ permalink           : "/committe-members/"
 <td><div align="left"> 社區所有設備之管理與維護 </div></td>
 <td><div align="center"> 維修保固合約與相關規範 </div></td>
 </tr>
+   
 <tr>
 <td><div align="center"> 網路委員 </div></td>
 <td><div align="center"> TBD </div></td>       
 <td><div align="left"> 處理管委會社區網路相關問題</div></td>
 <td><div align="left"> 維護社區電腦,網路,監視器等各類電子設備,維護網頁與雲端平台</div></td>
 <td><div align="center"> 電腦與網路服務合約 </div></td>
-</tr>   
+</tr>
+   
 <tr>
 <td><div align="center"> 環保委員 </div></td>
 <td><div align="center"> TBD </div></td>       
@@ -94,6 +103,7 @@ permalink           : "/committe-members/"
 <td><div align="left"> 負責環境維護工作, 包含環境清潔</div></td>
 <td><div align="center"> 清潔/回收等相關合約與規範 </div></td>
 </tr>
+   
 <tr>
 <td><div align="center"> 契約委員 </div></td>
 <td><div align="center"> TBD </div></td>       
@@ -101,6 +111,7 @@ permalink           : "/committe-members/"
 <td><div align="left"> 審查施工廠商價格, 物料採購價格等相關工作</div></td>
 <td><div align="center"> 全部合約審議 </div></td>
 </tr>
+   
 <tr>
 <td><div align="center"> 稽核委員 </div></td>
 <td><div align="center"> TBD </div></td>       
