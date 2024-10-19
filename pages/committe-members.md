@@ -25,13 +25,14 @@ permalink           : "/committe-members/"
 
 ---
 ### 管理委員職掌
+
 <table>
 <thead>
 <tr>
 <th><strong> 職稱 </strong></th>
 <th><strong> 姓名 </strong></th>   
-<th><strong> 負責事務 </strong></th>
-<th><strong> 工作項目 </strong></th>
+<th><strong> 職掌 </strong></th>
+<th><strong> 工作內容 </strong></th>
 <th><strong> 審核事項 </strong></th>
 </tr>
 </thead>
@@ -118,6 +119,9 @@ permalink           : "/committe-members/"
 </tr>
 
 </table>
+
+* *以上職掌,皆按椰城社區規約所述編列!*
+* *工作內容可按實際執行業務項目修訂！*
 
 ---
 
