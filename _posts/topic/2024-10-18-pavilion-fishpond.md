@@ -6,7 +6,7 @@ teaser: "現況照片,人人監督."
 categories:
     - topic
 tags:
-    - pavilion
+    - pavilion-fishpond
 ---
 
 ### 2024/10/18 魚池現況
