@@ -57,9 +57,13 @@ permalink: "/recycling-info/"
 
 ---
 ### 回收室 ~ A2棟一樓後方(總幹事辦公室旁)
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E9%96%80%E5%8F%A3_20241018.jpg?raw=true)
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%8F%B3%E5%81%B4_20241018.jpg?raw=true)
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true)
+<p>
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E9%96%80%E5%8F%A3_20241018.jpg?raw=true">
+</p>
+<p>
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%8F%B3%E5%81%B4_20241018.jpg?raw=true">
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true">
+</p>
 
 ---
 ### 回收物宣導
