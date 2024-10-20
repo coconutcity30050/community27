@@ -8,7 +8,7 @@ header:
 permalink: "/recycling-info/"
 ---
 
-## 社區清運時程
+### 社區清運時程
 
 <table>
   <tr>
@@ -53,8 +53,29 @@ permalink: "/recycling-info/"
   
 ---
 ### 回收物宣導
+
+#### 非回收物 (Trash)
+<p>
+<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_trash01.jpg?raw=true">
+</p>
+
+---
+#### 塑膠 (Plastic)
+<p>
+<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_plastic01.jpg?raw=true"> 
+</p>
+
+---
+#### 保麗龍 (Styrofoam)
+<p>
+<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">
+<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">   
+</p>
+
+
 ![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/recycle-categories-zh.png)
-![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/recycle-categories-en.png)
+
+https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_plastic01.jpg?raw=true
 
 ---
 ## 相關規定
