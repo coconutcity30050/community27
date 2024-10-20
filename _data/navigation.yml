@@ -38,7 +38,7 @@
   url: "/places/"
   side: left
   dropdown:
-  - title: "大門與中庭"
+  - title: "中庭與魚池"
     url: "/place/central/"
   - title: "商店街"
     url: "/place/bldg-S/"       
