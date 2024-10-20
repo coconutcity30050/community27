@@ -10,7 +10,7 @@ header:
   
 widget1:
   title: "管委會會議之時間與議程"
-  url: 'https://coconutcity30050.github.io/community27/committee/'
+  url: 'https://coconutcity30050.github.io/community27/meeting-agenda/'
   image: widget-1-302x182.jpg
   text: '
   <em>10/17已完成管理委員選舉</em><br/><br/>
@@ -21,7 +21,7 @@ widget1:
   
 widget2:
   title: "第27屆之政見與任務"
-  url: 'https://coconutcity30050.github.io/community27/info/'
+  url: 'https://coconutcity30050.github.io/community27/committe-members/'
   text: '
   CoconutCity 30050<br/>
   1. 建構<a href="http://github.com/coconutcity30050">椰城社區網頁</a><br/>
