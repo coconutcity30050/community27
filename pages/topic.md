@@ -14,7 +14,7 @@ permalink: "/topic/"
 
 ---
 ### 議題討論區
-*歡迎提供建議 ！*
+*歡迎住戶提供建議 ！*
 <ul>
     {% for post in site.categories.topic %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
