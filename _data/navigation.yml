@@ -38,8 +38,12 @@
   url: "/places/"
   side: left
   dropdown:
+  - title: "室內場所"
+    url: "/place/rooms/"  
   - title: "中庭與魚池"
     url: "/place/central/"
+  - title: "垃圾與回收"
+    url: "/place/recycling/"    
   - title: "商店街"
     url: "/place/bldg-S/"       
   - title: "A1棟"
