@@ -43,6 +43,15 @@ permalink           : "/committe-agenda/"
 <br/>
 
 ---
+## 過往議程列表
+
+<ul>
+    {% for post in site.tags.agenda %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+---
 
 
 
