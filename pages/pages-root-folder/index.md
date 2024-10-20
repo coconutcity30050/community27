@@ -9,14 +9,14 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   
 widget1:
-  title: "管委會之會議議程"
+  title: "管委會會議之時間與議程"
   url: 'https://coconutcity30050.github.io/community27/committee/'
   image: widget-1-302x182.jpg
   text: '
   <em>10/17已完成管理委員選舉</em><br/><br/>
-  <u>10/29 8:00pm 完成管理委員互選</u><br/>
-  <u>11/01 第27屆管理委員正式上任</u><br/>
-  <u>11/12 7:30pm~8:30pm 11月第一次會議</u><br/>
+  10/29 8:00pm <u>完成管理委員互選<br/>
+  11/01 第27屆管理委員正式上任<br/>
+  11/12 7:30pm~8:30pm 11月第一次會議<br/>
   '
   
 widget2:
