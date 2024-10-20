@@ -72,11 +72,6 @@ permalink: "/recycling-info/"
 <img width="25%" height="25%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">   
 </p>
 
-
-![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/recycle-categories-zh.png)
-
-https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_plastic01.jpg?raw=true
-
 ---
 ## 相關規定
 
