@@ -8,6 +8,10 @@ header:
 permalink: "/topic/"
 ---
 
+### 住戶提議
+1. 社區約500個滅火器都是114-06-10到期，明年記得申辦三燈二器，加上火警連動偵測器，緊急照明燈，避難方向指示燈，出口警示燈等，也可省下一筆可觀經費 ！ (E2-任明仁)
+
+---
 <ul>
     {% for post in site.categories.topic %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
