@@ -9,9 +9,19 @@ permalink           : "/contact/"
 
 ## 社區單位 (Community)
 
-### 管委會: coconutcity30050@gmail.com (Committee)
+### 管理中心 （總幹事辦公室)
 
+**服務時間： 週一 至 週五** <br>
+*國定假日與例假日休息 ！*<br>
+
+**上午：** 09:00 ~ 12:00<br>
+
+**下午：** 13:00 ~ 18:00<br>
+
+---
 ### 辦公室: (03)564-1692 (Manager's Office)
+
+### 總幹事: 0985-622341 (Manager)
 
 ### 警衛室: (03)577-1388 (Security)
 
