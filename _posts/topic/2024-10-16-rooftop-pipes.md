@@ -4,9 +4,9 @@ title:  "管線鏽蝕"
 subheadline:  "各棟水塔管線"
 teaser: "現況照片, 人人監督."
 categories:
-    - rooftop-pipes
-tags:
     - topic
+tags:
+    - rooftop-pipes
 ---
 ## 維護處理
 
