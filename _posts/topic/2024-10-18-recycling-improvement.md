@@ -17,7 +17,7 @@ tags:
 ![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true)
 
 ---
-## 回收物存放
+## 回收物存放問題
 
 ### 存放處～游泳池邊
 ![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9.jpg?raw=true)
@@ -65,6 +65,16 @@ tags:
 
 ---
 ### 建議壓縮~紙類回收物
-
 1. 紙杯 : 另外疊放
 2. 紙餐盒：另外疊放
+
+---
+## 回收物亂丟問題
+
+### 網路攝影機偵測
+1. 研究AI輔助自動偵測與警示 
+
+### 加強住戶宣導 
+1. 垃圾回收網頁建立中, 持續收集錯誤回收照片！
+2. 公告社區之垃圾回收須知網頁, 製作短片宣導！
+3. 找總幹事研究如何通知新住戶回收須知？！
