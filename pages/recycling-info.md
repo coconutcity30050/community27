@@ -56,20 +56,20 @@ permalink: "/recycling-info/"
 
 #### 非回收物 (Trash)
 <p>
-<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_trash01.jpg?raw=true">
+<img width="25%" height="25%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_trash01.jpg?raw=true">
 </p>
 
 ---
 #### 塑膠 (Plastic)
 <p>
-<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_plastic01.jpg?raw=true"> 
+<img width="25%" height="25%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_plastic01.jpg?raw=true"> 
 </p>
 
 ---
 #### 保麗龍 (Styrofoam)
 <p>
-<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">
-<img src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">   
+<img width="25%" height="25%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">
+<img width="25%" height="25%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/recycling_styrofoam01.jpg?raw=true">   
 </p>
 
 
