@@ -38,8 +38,7 @@ permalink: "/recycling-info/"
     <td>大豐環保($300)</td>
     <td>             </td> 
   </tr>   
-  <tr>
-    <td>             </td>     
+  <tr>   
     <td>    廚 餘     </td>
     <td>             </td>
     <td>   早上清運   </td>
