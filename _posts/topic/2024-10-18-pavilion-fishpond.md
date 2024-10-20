@@ -15,8 +15,9 @@ tags:
 ### DIY更新老舊水泵及過濾箱
 建議更新水泵與濾水箱, 並改置於涼亭後方, 較為美觀
 
-### 初步估價  
-![](http://img.alicdn.com/imgextra/i4/2414698431/O1CN01FHIDE82C9Rzh0Qjoj_!!2414698431.jpg)
+### 初步估價
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/fishpond-filter-spec.png?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/filter-pump-pipe.png?raw=true)
 1. 過濾桶(CPF15000) = $8200
 2. 潛式水泵(CFP10000) = $3450 
 3. 十米波紋管 = ?
