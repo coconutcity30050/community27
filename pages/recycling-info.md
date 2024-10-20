@@ -18,25 +18,28 @@ permalink: "/recycling-info/"
     <th>週三</th>
     <th>週四</th>
     <th>週五</th>
-    <th>週六</th> 
+    <th>週六</th>
+    <th>週日</th>     
   </tr>
   <tr>
-    <td>  垃圾子車  </td>  
+    <td> 垃圾子車 </td>  
     <td>環保局清運</td>
     <td>         </td>
     <td>環保局清運</td>
     <td>         </td>
     <td>環保局清運</td>
-    <td>環保局清運</td>     
+    <td>環保局清運</td> 
+    <td>         </td>   
   </tr>
   <tr>
     <td> 回收物 </td>  
-    <td>戴先生(免費)  </td>
-    <td>             </td>
     <td>戴先生(免費)   </td>
-    <td>             </td>
+    <td>     無       </td>
+    <td>戴先生(免費)   </td>
+    <td>     無       </td>
     <td>大豐環保($300)</td>
-    <td>             </td> 
+    <td>     無       </td>
+    <td>     無       </td>     
   </tr>   
   <tr>   
     <td>    廚 餘     </td>
@@ -47,6 +50,15 @@ permalink: "/recycling-info/"
     <td>             </td>
     <td>   早上清運   </td> 
   </tr>
+  <tr>   
+    <td>   複橙清潔   </td> 
+    <td>  2位清潔人員  </td>
+    <td> 1/2位清潔人員 </td>
+    <td>  2位清潔人員  </td>
+    <td> 1/2位清潔人員 </td>
+    <td>  2位清潔人員  </td>
+    <td>  1位清潔人員  </td> 
+  </tr>   
 </table>
 
 * *環保局回收車 : 由總幹事打電話預約, 協調清潔人員配合環保局之不定期回收 ！*
