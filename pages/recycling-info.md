@@ -49,6 +49,8 @@ permalink: "/recycling-info/"
   </tr>
 </table>
 
+* 環保局回收車: 由總幹事打電話預約, 不定期進行回收 ！
+  
 ---
 ### 回收物宣導
 ![](https://github.com/coconutcity30050/community27/raw/gh-pages/assets/place/recycle-categories-zh.png)
