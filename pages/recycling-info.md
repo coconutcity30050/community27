@@ -50,7 +50,17 @@ permalink: "/recycling-info/"
 </table>
 
 * *環保局回收車 : 由總幹事打電話預約, 協調清潔人員配合環保局之不定期回收 ！*
-  
+
+---
+### 垃圾室 ~ 大門/警衛室旁
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%AE%A4_20241018.jpg?raw=true)
+
+---
+### 回收室 ~ A2棟一樓後方(總幹事辦公室旁)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E9%96%80%E5%8F%A3_20241018.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%8F%B3%E5%81%B4_20241018.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true)
+
 ---
 ### 回收物宣導
 
