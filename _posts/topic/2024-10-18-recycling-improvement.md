@@ -31,6 +31,15 @@ tags:
 #### 2024/09/02
 ![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9_20240902.jpg?raw=true)
 
+#### 2024/10/07
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9_20241007.jpg?raw=true)
+
+#### 2024/10/11
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9_20241011.jpg?raw=true)
+
+#### 2024/10/18
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9_20241018.jpg?raw=true)
+
 ---
 ## 問題與方案
 1. 壓縮回收物可有效減小/減少回收桶數量及存放空間 ！
