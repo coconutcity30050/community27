@@ -4,9 +4,9 @@ title:  "垃圾回收改善"
 subheadline:  "議題討論"
 teaser: "公開透明,人人監督."
 categories:
-    - recyclinig
-tags:
     - topic
+tags:
+    - recycling
 ---
 
 ## 回收現況
