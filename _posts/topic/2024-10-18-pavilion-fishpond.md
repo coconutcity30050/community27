@@ -13,7 +13,7 @@ tags:
 ![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B6%BC%E4%BA%AD_%E6%AD%A3%E9%9D%A2_20241018.jpg?raw=true)
 
 ### DIY更新老舊水泵及過濾箱
-建議更新水泵與濾水箱, 並改置於涼亭後方, 較為美觀
+建議移除舊抽水機及鐵架,過濾箱, 改用潛式水泵與過濾桶, 並改置於涼亭後方, 較為美觀
 
 ### 初步估價
 ![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/fishpond-filter-spec.png?raw=true)
