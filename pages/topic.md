@@ -9,7 +9,7 @@ permalink: "/topic/"
 ---
 
 <ul>
-    {% for post in site.tag.topic %}
+    {% for post in site.categories.topic %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.topic }}</a></li>
     {% endfor %}
 </ul>
