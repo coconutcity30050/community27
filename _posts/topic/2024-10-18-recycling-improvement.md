@@ -13,14 +13,18 @@ tags:
 ### 回收室現況
 
 #### 2024/10/18
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%8F%B3%E5%81%B4_20241018.jpg?raw=true)
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true)
+<p>
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%8F%B3%E5%81%B4_20241018.jpg?raw=true">
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true">
+</p>
 
 ---
 ## 回收物存放
 
 ### 存放處～游泳池邊
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9.jpg?raw=true)
+<p>
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E6%B8%B8%E6%B3%B3%E6%B1%A0_%E5%AD%98%E6%94%BE%E5%9B%9E%E6%94%B6%E7%89%A9.jpg?raw=true"
+</p>
 
 ---
 ### 存放現況
