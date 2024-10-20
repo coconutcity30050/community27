@@ -53,7 +53,9 @@ permalink: "/recycling-info/"
 
 ---
 ### 垃圾室 ~ 大門/警衛室旁
-![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%AE%A4_20241018.jpg?raw=true)
+<p>
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%AE%A4_20241018.jpg?raw=true"
+</p>
 
 ---
 ### 回收室 ~ A2棟一樓後方(總幹事辦公室旁)
