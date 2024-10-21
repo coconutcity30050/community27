@@ -105,6 +105,21 @@ permalink: "/recycling-info/"
 ---
 ## 相關規定
 
+### [新竹市垃圾強制分類表](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8.pdf)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0001.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0002.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0003.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0004.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0005.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0006.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0007.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0008.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0009.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0010.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0011.jpg?raw=true)
+![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/recycling/%E6%96%B0%E7%AB%B9%E5%B8%82%E5%9E%83%E5%9C%BE%E5%BC%B7%E5%88%B6%E5%88%86%E9%A1%9E%E8%A1%A8_page-0012.jpg?raw=true)
+
+---
 ### 椰城規約~新規約
 
 社區未依規定做好垃圾分類者,以致清潔隊拒收,依違反廢棄物清理法第 12 條第 1 項及一般廢棄物回收清除處理辦法第 14 條第 1 項之規定,依同法第 50 條第 2 款之規定處以新臺幣 1,200~6,000 元罰款,管委會將調閱監視器並公告,罰款則由違規住戶負擔。<br>
