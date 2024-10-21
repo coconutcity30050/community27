@@ -20,7 +20,9 @@ tags:
 ![](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/filter-pump-pipe.png?raw=true)
 1. 過濾桶(CPF15000) = $8200
 2. 潛式水泵(CFP10000) = $3450 
-3. 十米波紋管 = ?
+3. 十米波紋管
+   
+露天賣場報價：共 $10300元<br>
 
 ---
 ### 2024/10/18 涼亭現況 
