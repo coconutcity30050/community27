@@ -48,7 +48,7 @@ tags:
    
 ### 建議壓縮~鋁罐及塑膠
 
-**[腳踩擠壓器](https://www.ruten.com.tw/item/show?21938954956786)** <br>
+**[腳踩擠壓器](https://www.ruten.com.tw/item/show?21938954956786)**（日製 $2680) <br>
 <p><img width="25%" height="25%" src="https://gcs.rimg.com.tw/g2/1/cb/f2/21938954956786_865.jpg"></p>
 
 **產品規格:** <br>
