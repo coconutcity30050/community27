@@ -5,9 +5,7 @@
   - title: "成員與職掌"
     url: "/committe-members/"
   - title: "會議議程"
-    url: "/committe-agenda/"
-  - title: "廠商合約"
-    url: "/committe-contracts/"    
+    url: "/committe-agenda/" 
 
 - title: 法條與規約
   url: "/regulations-rules/"
