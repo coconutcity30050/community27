@@ -4,7 +4,7 @@ subheadline: "Finance Report"
 title: "財務報表"
 teaser: "第27屆管委會任期 113年10月~114年10月"
 header:
-   image_fullwidth: "header_typewriter.jpg"
+   image_fullwidth: "header_unsplash_3.jpg"
 permalink: "/finance-reports/"
 ---
 
