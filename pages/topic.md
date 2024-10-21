@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "議題討論"
+title: "議題討論區"
 subheadline: "公共場所修繕, 設施/設備維修, 門禁管制,環保回收改善..."
 header:
    image_fullwidth: "header_unsplash_7.jpg"
@@ -15,6 +15,9 @@ permalink: "/topic/"
 ---
 ### 議題討論區
 *歡迎住戶提供建議 ！*
+* 可至總幹事辦公室填寫意見單
+* 可Email：coconutcity30050@gmail.com
+  
 <ul>
     {% for post in site.categories.topic %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
