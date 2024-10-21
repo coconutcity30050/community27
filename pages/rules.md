@@ -655,7 +655,7 @@ permalink           : "/rules/"
 繳交裝潢保證金簽收者：______________________ <br>
 
 ---
-### 訂註：
+### 勘誤修訂：
 [原版PDF](https://github.com/coconutcity30050/community27/blob/gh-pages/assets/rules/%E6%A4%B0%E5%9F%8E%E7%A4%BE%E5%8D%80%E8%A6%8F%E7%B4%84%E5%8F%8A%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95113-05-10.pdf)
 之以下項目（有待下次區權會予以更正）:
 * 第四條之標題, 缺一字"保" --> 更正為"公寓大廈有文件之保管責任"
