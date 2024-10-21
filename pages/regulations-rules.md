@@ -5,7 +5,7 @@ title               : "法規與須知"
 subheadline         : "恪守規約, 戶戶有責"
 teaser              : "社區規約是公寓大廈管理組織成立與運作的依據，也是規範住戶權利義務關係的重要依據"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "header_unsplash_8.jpg"
 permalink           : "/regulations-rules/"
 ---
 ## 法律條例
