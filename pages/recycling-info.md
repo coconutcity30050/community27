@@ -66,7 +66,7 @@ permalink: "/recycling-info/"
 ---
 ### 垃圾室 ~ 大門/警衛室旁
 <p>
-<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%AE%A4_20241018.jpg?raw=true"
+<img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%AE%A4_20241018.jpg?raw=true">
 </p>
 
 ---
@@ -76,6 +76,8 @@ permalink: "/recycling-info/"
 </p>
 <p>
 <img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%8F%B3%E5%81%B4_20241018.jpg?raw=true">
+</p>
+<p>
 <img width="50%" height="50%" src="https://github.com/coconutcity30050/community27/blob/gh-pages/assets/place/%E5%9B%9E%E6%94%B6%E5%AE%A4_%E5%B7%A6%E5%81%B4_20241018.jpg?raw=true">
 </p>
 
